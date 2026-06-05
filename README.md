@@ -70,7 +70,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-6- Module 6 - FoC
 # Ex.No:27
   Implement a C program to perform arithmetic operations (addition, subtraction, multiplication, division) on two integers using function pointers. The user should input two numbers and select the desired operation from a menu.
-# Date : 21/11/2025
+# Date :01.06.26
 # Aim:
   To implement a C program that uses function pointers to perform arithmetic operations (add, subtract, multiply, divide) on two integers based on user choice.
 # Algorithm:
@@ -179,7 +179,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-6- Module 6 - FoC
 # Ex.No:28
   Develop a C program to store details of n employees (employee number, name, and salary) using structures, and display the employee(s) with the highest salary.
-# Date : 21/11/2025
+# Date :01.06.26
 # Aim:
   To develop and implement a C program that uses a structure to store employee details (employee number, name, and salary) and determine the employee(s) with the highest salary.
 # Algorithm:
@@ -275,7 +275,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-6- Module 6 - FoC
 # Ex.No:29
   Create the C program to calculate the present age of a person by passing structure as a reference.
-# Date : 21/11/2025
+# Date : 01.06.26
 # Aim:
   To create a C program that uses a structure to store the current date and birth date, and to calculate the person’s present age in years, months, and days by passing the structure as a reference.
 # Algorithm:
